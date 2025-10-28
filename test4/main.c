@@ -1,7 +1,7 @@
 //
 //  main.c
 //  test4
-// xxxxxx
+// x
 
 #include <stdio.h>
 #include <unistd.h>
